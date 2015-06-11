@@ -1,0 +1,11 @@
+{
+    "name": "embanet-compass/moodle-local-highcharts",
+    "type": "moodle-local",
+    "description": "Moodle Local Highcharts - highcharts.js charting library by Highslide-software. Learn more at: www.highcharts.com",
+    "extra": {
+        "installer-name": "highcharts",
+        "moodle": {
+            "package_folder_name" : "highcharts"
+        }
+    }
+}
